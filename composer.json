@@ -15,5 +15,11 @@
         "psr-4": {
             "Arzola\\":"src/Arzola/Classes"
         }
-    }
+    },
+    "extra": {
+        "branch-alias": {
+            "master": "1.0-dev"
+        }
+    },
+    "minimum-stability": "dev"
 }
