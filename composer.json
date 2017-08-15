@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Arzola\\":"src/Arzola/Classes"
+            "Arzola\\":"Arzola/Classes"
         }
     },
     "extra": {
